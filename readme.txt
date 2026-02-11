@@ -1,5 +1,5 @@
 === Mypos Booking Integration ===
-Contributors: jwpcelias
+Contributors: Elias
 Tags: booking, reservas, mypos, pagos, e-commerce
 Requires at least: 5.0
 Tested up to: 6.4
